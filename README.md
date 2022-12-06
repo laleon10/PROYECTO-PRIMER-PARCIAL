@@ -23,6 +23,9 @@ Ya observado la funcion del fotoresistor y del transistor, se usará el diagrama
 ![20221129_003445](https://user-images.githubusercontent.com/116819463/204449632-16ace472-5f00-4861-a587-3136754423a5.jpg)
 ![image](https://user-images.githubusercontent.com/116819463/204451019-37763eae-3819-40d6-926d-fc11df75644e.png)
 
+# video
+
+https://youtu.be/DJBTdGvTDGU
 
 # Conclusiones
 
